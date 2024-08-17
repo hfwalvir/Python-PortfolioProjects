@@ -1,4 +1,4 @@
-# Python-PortfolioProjects
+# Python-portfolio projects
 
 
 1. **Advanced NLP with Python for Machine Learning**  
@@ -24,3 +24,7 @@
 
 8. **World Bank and Cryptocurrency API**  
    This notebook explores the integration of World Bank data with cryptocurrency APIs. It analyzes economic indicators and cryptocurrency trends, providing a comprehensive view of the relationship between global economic factors and digital currencies.
+   Key highlights include robust data preprocessing, feature engineering, handling class imbalance, model development and evaluation, insightful visualizations, and automation for seamless adaptation.
+
+9. **Credit Risk prediction:** Key highlights for this credit risk project include robust data preprocessing, feature engineering, handling class imbalance, model development and evaluation, insightful visualizations, and automation for seamless adaptation.
+   
